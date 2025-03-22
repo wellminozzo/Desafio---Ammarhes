@@ -6,7 +6,7 @@
     Set conn = Server.CreateObject("ADODB.Connection")
 
     ' Definir a string de conexão
-    connStr = "Provider=SQLOLEDB;Data Source=DESKTOP-NQPN4L9;Initial Catalog=DesafioAH;User ID=sa;Password=project;"
+    connStr = "Provider=SQLOLEDB;Data Source=NomeDoHost;Initial Catalog=NomeDoBanco;User ID=User;Password=Password;"
 
    
 
